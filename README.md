@@ -120,7 +120,3 @@ Contributions are welcome! Feel free to fork this repository and create a pull r
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to make any further adjustments based on your needs!
